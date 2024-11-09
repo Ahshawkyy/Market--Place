@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {
+  .media{
+  margin-left : -250px;
+}
+}
+@media screen and (min-width: 600px) {
+  .media{
+    
+    margin-left: 0;
+  }
+  
+}
+.media{
+  border: 5px solid red;
+  color: red;
+}
